@@ -1,3 +1,3 @@
 # Neverlose.cc hitsounds
 
-A set of audio files in WAV format and re-compressed versions in VSND_C format suitable for use in Counter-Strike 2.
+A set of audio files in WAV format and re-compressed versions in VSND_C format suitable for use in Counter-Strike 2
